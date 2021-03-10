@@ -54,11 +54,38 @@ FullStack 개발, GitHub을 통한 소스관리 경험이 있습니다.
 - Prisma
 
 ## 프로젝트
+#### YouChu(Prisma + Nodejs + React + ReactNative)
 - https://youstagram.netlify.app/?#/ (ID: 9725394@naver.com, PW: sore furniture)
   - https://github.com/RealYoungk/YoustaFrontend
+    - html, css, js
+    - ApolloClient 활용 JWT 사용자 토큰 LocalState에서 관리
+    - 페이지 라우팅 기능 개발경험
+    - react-apollo-hooks 활용 GraphQL 방식으로 데이터를 비동기, 동기 방식으로 처리 경험
+    - 대부분의 복잡한 화면은 Container(데이터), Presenter(보여지는부분), Queries(쿼리) 디자인 패턴 사용
+    - 써드파티 외부 라이브러리 사용 경험
+    - netlify 활용하여 배포 경험
+    
   - https://github.com/RealYoungk/YoustaBackend
+    - node.js 
+    - Database 스키마 설계 경험
+    - MailGun 미들웨어 사용 경험
+    - API 개발 경험
+    - Heroku 활용하여 배포 경험
   - https://github.com/RealYoungk/YoustaApp (배포X)
-- https://realyoungk.github.io/movie_app_2019/#/
+    - ReactNative, Expo
+    - persist cache 사용 경험
+    - Navigation 구현 경험
+    - Oauth 사용 경험
+    
+#### Twitter(React + Firebase)
+- https://realyoungk.github.io/nwitter/#/
+  - https://github.com/RealYoungk/nwitter
+    - React + Firebase
+    - Oauth 사용 경험
+    - realtime db 사용 경험
 
 ## 진행중인 프로젝트
-- https://github.com/RealYoungk/youchu_frontend/tree/master
+#### YouChu(Flutter + Firebase)
+- 진행중
+  - https://github.com/RealYoungk/youchu_frontend/tree/master
+    - 페이지 UI 작업 중...
